@@ -48,6 +48,7 @@ app/
  
 Frontend
 src/
+
  ├── App.jsx
  
  ├── main.jsx
