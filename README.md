@@ -1,8 +1,8 @@
-#Master Burger 🍔#
+Master Burger 🍔
 
 Sistema Web Full Stack para gerenciamento de hamburgueria desenvolvido com React, FastAPI e PostgreSQL.
 
-📌 Sobre o Projeto
+📌 Sobre o Projeto:
 
 O Master Burger é um sistema administrativo para hamburguerias que permite:
 
