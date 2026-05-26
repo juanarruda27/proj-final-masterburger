@@ -118,8 +118,11 @@ Banco utilizado: PostgreSQL
 Tabelas principais:
 
 products
+
 users
+
 orders
+
 order_items
 
 🔐 JWT Authentication
@@ -139,28 +142,42 @@ acesso às rotas protegidas
 
 Principais endpoints:
 
-Produtos
+Produtos:
+
 GET /products
+
 POST /products
+
 DELETE /products/{id}
+
 PUT /products/{id}/stock
 
-Pedidos
+Pedidos:
+
 GET /orders
+
 POST /orders
+
 PUT /orders/{id}/status
 
-Autenticação
+Autenticação:
+
 POST /auth/login
+
 🖥 Interface
 
 O sistema possui:
 
 dashboard administrativo
+
 cards de produtos
+
 gerenciamento de pedidos
+
 atualização de status
+
 controle de estoque
+
 interface responsiva
 
 📚 Aprendizados
@@ -168,13 +185,21 @@ interface responsiva
 Durante o desenvolvimento foram aplicados conhecimentos de:
 
 APIs REST
+
 React
+
 FastAPI
+
 PostgreSQL
+
 JWT Authentication
+
 integração Full Stack
+
 arquitetura de software
+
 controle de estado
+
 comunicação frontend/backend
 
 👨‍💻 Autores: Juan Arruda Costa e Jonathan Cardoso de Oliveira
