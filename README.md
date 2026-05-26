@@ -1,4 +1,4 @@
-Master Burger 🍔
+#Master Burger 🍔
 
 Sistema Web Full Stack para gerenciamento de hamburgueria desenvolvido com React, FastAPI e PostgreSQL.
 
@@ -77,7 +77,7 @@ login de usuários
 
 🛠 Como Executar o Projeto
 
-Fazer a instalação do proejto: 
+Fazer a instalação do projeto: git clone https://github.com/juanarruda27/proj-final-masterburger
 
 Backend
 1. Entrar na pasta backend
