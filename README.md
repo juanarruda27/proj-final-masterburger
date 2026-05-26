@@ -37,15 +37,21 @@ app/
  ├── controllers
  
  ├── models
+ 
  ├── schemas
+ 
  ├── database
+ 
  ├── security
+ 
  └── main.py
  
 Frontend
 src/
  ├── App.jsx
+ 
  ├── main.jsx
+ 
  └── index.css
  
 ⚙️ Funcionalidades
