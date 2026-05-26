@@ -33,7 +33,9 @@ TailwindCSS
 🗂 Estrutura do Projeto
 Backend
 app/
+
  ├── controllers
+ 
  ├── models
  ├── schemas
  ├── database
